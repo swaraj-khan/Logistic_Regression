@@ -28,6 +28,11 @@ scikit-learn
 # Dataset
 The project uses a dataset named 'Social_Network_Ads.csv,' which contains user information, including gender, age, estimated salary, and purchasing behavior (0 for no purchase, 1 for purchase).
 
+# Kaggle Notebook 
+https://www.kaggle.com/code/swarajkhan/logistic-regression-the-best
+
+Please Upvote
+
 # Author
 Swaraj Khan P
 
